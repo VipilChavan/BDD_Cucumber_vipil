@@ -1,0 +1,9 @@
+[INFO ] 2023-08-07 13:24:15.692 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 13:24:15.863 [main] Steps - chrome browser launched
+[INFO ] 2023-08-07 13:24:17.520 [main] Steps - User enters url
+[INFO ] 2023-08-07 13:24:17.803 [main] Steps - User enters email and password
+[INFO ] 2023-08-07 13:24:21.553 [main] Steps - User clicked login button
+[WARN ] 2023-08-07 13:24:21.575 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 13:24:23.572 [main] Steps - User clicked on log out button
+[WARN ] 2023-08-07 13:24:23.586 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 13:24:23.700 [main] Steps - Browser got closed 

@@ -1,0 +1,49 @@
+tags="@Sanity" // Will Run Scenario which is tagged with Sanity. Does not matter if
+it has other tags as well.
+
+tags="@Sanity or @Regression" // Will Run Scenario tagged with Sanity or Regression.
+
+tags="@Sanity and @Regression" // Will Run Scenario which is tagged with Sanity as
+well as Regression.
+
+tags="@Sanity and not @Regression" // Will Run Scenario which is tagged with Sanity
+but not Regression.
+
+
+
+ @Before(order = 1)
+    public void setup()
+    {
+        System.out.println("Setup Method Executed");
+        WebDriverManager.chromedriver().setup();
+        driver= new ChromeDriver();
+    }
+    @Before(order = 2)
+    public void setup1()
+    {
+        System.out.println("Setup Method Executed");
+        WebDriverManager.chromedriver().setup();
+        driver= new ChromeDriver();
+    }
+
+    for before anontations order is in increasing format lower the number higher the priority
+    in this case order with 1 will executed first
+
+
+
+     @After(order = 2)
+        public void teardown()
+        {
+            System.out.println("Tear Down Method Executed");
+            driver.quit();
+        }
+
+    //    @After(order = 1)
+    //    public void teardown2()
+    //    {
+    //        System.out.println("Tear Down Method Executed");
+    //        driver.quit();
+    //    }
+
+ for after anontations order is in decreasing format lower the number lower the priority
+ in this case order with 2 will execute first

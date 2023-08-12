@@ -1,0 +1,39 @@
+[INFO ] 2023-08-07 13:26:52.672 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 13:26:52.864 [main] Steps - chrome browser launched
+[INFO ] 2023-08-07 13:26:54.408 [main] Steps - User enters url
+[INFO ] 2023-08-07 13:26:54.710 [main] Steps - User enters email and password
+[INFO ] 2023-08-07 13:27:00.239 [main] Steps - User clicked login button
+[WARN ] 2023-08-07 13:27:00.273 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 13:27:01.957 [main] Steps - User clicked on log out button
+[WARN ] 2023-08-07 13:27:01.972 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 13:27:02.090 [main] Steps - Browser got closed 
+[INFO ] 2023-08-07 13:37:44.396 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 13:37:44.577 [main] Steps - chrome browser launched
+[INFO ] 2023-08-07 13:37:46.212 [main] Steps - User enters url
+[INFO ] 2023-08-07 13:37:46.511 [main] Steps - User enters email and password
+[INFO ] 2023-08-07 13:37:51.309 [main] Steps - User clicked login button
+[WARN ] 2023-08-07 13:37:51.331 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 13:37:53.050 [main] Steps - User clicked on log out button
+[WARN ] 2023-08-07 13:37:53.065 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 13:37:53.202 [main] Steps - Browser got closed 
+[INFO ] 2023-08-07 14:24:12.993 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 14:25:14.511 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 14:25:38.504 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 14:25:42.602 [main] Steps - chrome browser launched
+[INFO ] 2023-08-07 14:25:44.888 [main] Steps - User enters url
+[INFO ] 2023-08-07 14:25:45.161 [main] Steps - User enters email and password
+[INFO ] 2023-08-07 14:25:48.827 [main] Steps - User clicked login button
+[WARN ] 2023-08-07 14:25:48.840 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 14:25:50.515 [main] Steps - User clicked on log out button
+[WARN ] 2023-08-07 14:25:50.534 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 14:25:50.643 [main] Steps - Browser got closed 
+[INFO ] 2023-08-07 14:26:15.912 [main] Steps - Setup Method Executed
+[INFO ] 2023-08-07 14:26:26.569 [main] Steps - chrome browser launched
+[INFO ] 2023-08-07 14:26:27.921 [main] Steps - User enters url
+[INFO ] 2023-08-07 14:26:28.178 [main] Steps - User enters email and password
+[INFO ] 2023-08-07 14:26:31.772 [main] Steps - User clicked login button
+[WARN ] 2023-08-07 14:26:31.793 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 14:26:33.487 [main] Steps - User clicked on log out button
+[WARN ] 2023-08-07 14:26:33.503 [main] Steps - Page Title got matched
+[INFO ] 2023-08-07 14:26:33.637 [main] Steps - Browser got closed 
+[INFO ] 2023-08-07 14:27:15.307 [main] Steps - Setup Method Executed
